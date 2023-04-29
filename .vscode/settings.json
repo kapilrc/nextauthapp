@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "files.autoSave": "afterDelay",
+  "colorize.languages": [
+    "javascript"
+  ],
+  "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+  "eslint.format.enable": true
+}
