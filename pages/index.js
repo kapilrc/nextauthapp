@@ -53,7 +53,7 @@ function User({ session, handleSignOut }) {
       </div>
 
       <div className='flex justify-center'>
-        <Link legacyBehavior href={'/profile'}><a className='mt-5 px-10 py-1 rounded-sm bg-indigo-500 text-gray-50'>Profile Page</a></Link>
+        <Link legacyBehavior href={'/dashboard'}><a className='mt-5 px-10 py-1 rounded-sm bg-indigo-500 text-gray-50'>Profile Page</a></Link>
       </div>
     </main>
   )
